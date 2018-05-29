@@ -228,3 +228,4 @@ examples/bundle.js
 umd/*
 es6/*
 tests/coverage
+public/bundle.js
